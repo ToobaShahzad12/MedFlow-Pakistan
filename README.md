@@ -40,8 +40,6 @@ Patients in hospitals often face long waiting lines, overcrowded reception areas
 
 Prototype walkthrough video included in repository.
 
-## Screenshots
-
 ## Project Type
 
 Academic UIUX & HCI Project
